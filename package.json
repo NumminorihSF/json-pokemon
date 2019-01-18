@@ -1,0 +1,22 @@
+{
+  "name": "json-pokemon",
+  "version": "1.0.0",
+  "description": "Package with pokemons",
+  "main": "data.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NumminorihSF/json-pokemon.git"
+  },
+  "keywords": [
+    "pokemon"
+  ],
+  "author": "Konstantin Petryaev <numminorihsf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NumminorihSF/json-pokemon/issues"
+  },
+  "homepage": "https://github.com/NumminorihSF/json-pokemon#readme"
+}
